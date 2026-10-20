@@ -41,7 +41,3 @@ Review the wiring notes, upload the Arduino sketch, build the 8051 firmware with
 ## Testing and Future Work
 
 Record actual sensor readings, servo response, calibration settings, and prototype photos. Future improvements include sensor filtering, live monitoring, and comparison against a fixed panel using measured output data.
-
-## Credits
-
-Add project team members, individual contributions, and third-party references before publication.
