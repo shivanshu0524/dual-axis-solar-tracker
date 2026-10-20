@@ -32,7 +32,7 @@ The system uses four Light Dependent Resistors (LDRs) arranged in a quadrant pat
 
 - `Arduino_Code/` — LDR acquisition sketch
 - `8051_Code/` — 8051 tracking firmware
-- `docs/` — wiring, algorithm, bill of materials, and test plan
+- `docs/` — Wiring diagrams, system architecture, and tracking algorithm documentation
 
 ## Getting Started
 
